@@ -5,7 +5,7 @@ public class Task1{
     static int randomNum;
     public static void OriginalNumber(){
         
-        // Random numbers between 0(inclusive) to 100(exclusive)
+        
         randomNum = random.nextInt(100);        
         
         System.out.println("Rule: You have only 5 guesses !\n Let's begin !");
